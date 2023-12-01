@@ -41,17 +41,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 
 
-Distributed under the MIT License. See \`LICENSE\` for more information.
-
-## Contact
-
-Your Name - example@yourdomain.com
-
-Project Link: [https://github.com/your_username_/Project-Name](https://github.com/your_username_/Project-Name)
-
-## Acknowledgements
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Othneildrew's README template](https://github.com/othneildrew/Best-README-Template)
-\`\`\`
