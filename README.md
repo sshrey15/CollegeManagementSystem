@@ -1,5 +1,5 @@
-\`\`\`
-# Project Title
+
+# College Management System (Part of my course SEM-3 project for the subject Object Oriented Programming)
 
 This is a C++ project that models a college system. The project includes a `college` class that contains information about a college such as its name, address, strength, number of branches, and the names of the branches.
 
@@ -10,21 +10,6 @@ To get a local copy up and running, follow these simple steps.
 ### Prerequisites
 
 This project requires a C++ compiler. If you're using Windows, you might want to install [MinGW](http://www.mingw.org/). For Linux and MacOS, the GCC compiler is usually pre-installed.
-
-### Installation
-
-1. Clone the repo
-   \`\`\`
-   git clone https://github.com/your_username_/Project-Name.git
-   \`\`\`
-2. Compile the project
-   \`\`\`
-   g++ index.cpp -o output
-   \`\`\`
-3. Run the project
-   \`\`\`
-   ./output
-   \`\`\`
 
 ## Usage
 
